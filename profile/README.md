@@ -19,6 +19,10 @@
   <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/Cyancore%20Git.png"
        width=450 alt="Cyancore"/>
 </a>
+<a href="https://github.com/VisorFolks/cc_examples">
+  <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/CC%20Examples.png"
+       width=224 alt="Cyancore"/>
+</a>
 
 ---
 ### Connect with us at
