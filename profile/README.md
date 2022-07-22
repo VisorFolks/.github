@@ -9,8 +9,8 @@
 </h1>
 <body>
   <div align="center">
-    <i>AA team of like minded folks working on open-source embedded system projects.</i><br>
-    <i>From India with Pride!</i><br><br>
+    <i>A team of like minded folks working on open-source embedded system projects.</i><br>
+    <i>From India with Pride!</i><br>
   </div>
 </body>
 
