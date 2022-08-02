@@ -2,7 +2,7 @@
   <div align="center">
     <a href="https://github.com/VisorFolks/">
       <img align="center" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/vf/logo/VisorFolks.png"
-           width=100 height=100 alt="Cyancore"/>
+           width=100 height=100 alt="VisorFolks"/>
     </a>
     Welcome to VisorFolks
   </div>
@@ -21,7 +21,7 @@
 </a>
 <a href="https://github.com/VisorFolks/cc_examples">
   <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/CC%20Examples.png"
-       width=200 height=200 alt="Cyancore"/>
+       width=200 height=200 alt="CC-Examples"/>
 </a>
 
 ---
