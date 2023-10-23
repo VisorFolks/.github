@@ -10,7 +10,7 @@
 <body>
   <div align="center">
     <i>A team of like minded folks working on open-source embedded system projects.</i><br>
-    <i>From India with Pride!</i><br>
+    <i>From Bharat with Pride!</i><br>
   </div>
 </body>
 
