@@ -16,7 +16,7 @@
 
 ### Checkout our projects
 <a href="https://github.com/VisorFolks/cyancore">
-  <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/Cyancore%20Git.png"
+  <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/cyancore.png"
        height=200 alt="Cyancore"/>
 </a>
 <a href="https://github.com/VisorFolks/cc_examples">
