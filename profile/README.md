@@ -21,7 +21,7 @@
 </a>
 <a href="https://github.com/VisorFolks/cc_examples">
   <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/CC%20Examples.png"
-       width=200 height=200 alt="CC-Examples"/>
+       height=200 alt="CC-Examples"/>
 </a>
 
 ---
