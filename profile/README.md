@@ -24,6 +24,12 @@
        height=200 alt="CC-Examples"/>
 </a>
 
+### Documentation
+<a href="https://github.com/VisorFolks/cc_docs">
+  <img align="top" src="https://raw.githubusercontent.com/VisorFolks/vf_artifacts/stable/cyancore/icons/cc_docs.png"
+       height=200 alt="CC-Docs"/>
+</a>
+
 ---
 ### Connect with us at
 <a href="https://discord.gg/gxUQr77MT2">
